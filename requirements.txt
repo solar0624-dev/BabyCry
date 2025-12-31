@@ -1,0 +1,7 @@
+Flask==2.2.5
+requests==2.31.0
+gunicorn==20.1.0
+numpy==1.23.5
+# 以下是 AI 核心库，体积较大
+tensorflow-cpu==2.12.0
+librosa==0.10.1
